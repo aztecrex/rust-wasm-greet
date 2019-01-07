@@ -4,3 +4,5 @@ Cargo.lock
 .vscode/
 dist/
 node_modules/
+/rust_wasm_greet*
+
